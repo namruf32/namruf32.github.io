@@ -3,9 +3,17 @@ layout: posts
 title: "North Shore Update"
 author: Larita Humble
 date: 2022-10-04 07:26:41 -0700
+
 permalink: /community/:title
 categories: "north shore"
 classes: wide
+card_image: /assets/images/northshore-768x576.jpeg
+header:
+  overlay_image: /assets/images/northshore-768x576.jpeg
+  show_overlay_excerpt: false
+  actions:
+    - label: "Email Skagit County Commissioners"
+      url: "mailto:commissioners@co.skagit.wa.us"
 ---
 ## Let’s work together to get the road open!
 
@@ -21,7 +29,7 @@ I recently presented a human interest story regarding one of our neighbors and t
 
 I am not giving up representing you and my community as I have made it very clear and apparent to the commissioners and public works that even though my tenure as president ended on December 31st, 2022, I will see this project through for my community until restoration is complete.
 
-If you would like to write to the commissioners regarding N Shore or for any other Skagit County business or concerns, please email them at: commissioners@co.skagit.wa.us or
+If you would like to write to the commissioners regarding N Shore or for any other Skagit County business or concerns, please email them at: [commissioners@co.skagit.wa.us](mailto:commissioners@co.skagit.wa.us) or
 
 via USPS at: 1800 Continental Place, Suite 100, Mount Vernon, WA 98273 or if you would be interested in joining the Tuesday, 11:30 AM public comment meeting, you many do so via Zoom at [https://skagitcounty.net/Departments/CountyCommissioners/main.htm](https://skagitcounty.net/Departments/CountyCommissioners/main.htm) or in person at their Continental Place meeting room.
 
