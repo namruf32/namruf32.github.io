@@ -4,5 +4,5 @@ _site
 .jekyll-metadata
 vendor
 
-/secure_pages/*
-/lcia/members/.staticrypt.json
+/pages/members/encrypted/*
+/pages/.staticrypt.json
