@@ -69,8 +69,13 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       show_date: true
       read_time: true
+      author_profile: true
+      comments: true
+      share: true
+      related: true
 
 footer:
   links:

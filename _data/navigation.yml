@@ -1,5 +1,5 @@
 main:
-  - title: "Our Community"
+  - title: "Community"
     url: /community/
   - title: "Improvement Association"
     url: /lcia/
@@ -11,7 +11,7 @@ main:
     url: /sponsors/
 
 community:
-  - title: "Our Community"
+  - title: "Community"
     url: /community/
     children:
       - title: "Lake Cavanaugh Trust"

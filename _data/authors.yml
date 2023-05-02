@@ -1,0 +1,29 @@
+Larita Humble:
+  name        : "Larita Humble"
+  bio         : "A catchy description here."
+  #avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:larita_humble@frontier.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: ""
+
+Josh Furman:
+  name        : "Josh Furman"
+  bio         : "Website wrangler"
+  avatar      : "/assets/images/josh_furman.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:namruf32@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: ""
