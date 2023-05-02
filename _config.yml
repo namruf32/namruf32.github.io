@@ -63,6 +63,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 defaults:
   # _posts
   - scope:
