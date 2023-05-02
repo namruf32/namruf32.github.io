@@ -10,6 +10,7 @@ classes: wide
 card_image: /assets/images/northshore-768x576.jpeg
 header:
   overlay_image: /assets/images/northshore-768x576.jpeg
+  caption: "Photo credit: Larita Humble"
   show_overlay_excerpt: false
   actions:
     - label: "Email Skagit County Commissioners"
