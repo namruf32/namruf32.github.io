@@ -10,4 +10,6 @@ classes: wide
 
 - This site is a demo for the LCIA utilizing the Jekyll framework. 
 - The members only pages are static encrypted
-- Remaining task integrate a PayPal shopping cart
+- Remaining tasks:
+  - Integrate a PayPal for member fees and advertising shopping cart
+  - Integrate Google, or alternative calendar
