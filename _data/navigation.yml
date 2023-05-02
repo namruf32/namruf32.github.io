@@ -1,0 +1,75 @@
+main:
+  - title: "Our Community"
+    url: /community/
+  - title: "Improvement Association"
+    url: /lcia/
+  - title: "Fire Department"
+    url: /fire/
+  - title: "Events"
+    url: /events/
+  - title: "Sponsors"
+    url: /sponsors/
+
+community:
+  - title: "Our Community"
+    url: /community/
+    children:
+      - title: "Lake Cavanaugh Trust"
+        url: /community/trust
+      - title: "Boating Information"
+        url: /community/boating
+      - title: "Fireworks Information"
+        url: /community/fireworks
+
+lcia:
+  - title: "Improvement Association"
+    url: /lcia/
+    children:
+      - title: "LCIA Members Login"
+        url: /lcia/members/encrypted/
+      - title: "Officers & Committees"
+        url: /lcia/governing
+      - title: "LCIA Member Dues & Donations"
+        url: /lcia/dues
+      - title: "Spring Newsletter"
+        url: /lcia/spring_news
+      - title: "Volunteer"
+        url: /lcia/volunteer
+
+fire:
+  - title: "Fire Department"
+    url: /fire/
+    children:
+      - title: "Auiliary Mission Statement"
+        url: /fire/auxiliary
+
+events:
+  - title: "Events"
+    url: /events/
+    children:
+      - title: "Events Calander"
+        url: /events/calander
+
+sponsors:
+  - title: "Sponsors"
+    url: /sponsors/
+    children:
+      - title: "Advertise"
+        url: /sponsors/advertise
+
+members:
+  - title: "LCIA Members"
+    children: 
+      - title: "Member Information"
+        url: /lcia/members/encrypted/
+      - title: "Directory"
+        url: /lcia/members/encrypted/directory
+      - title: "Members Newsletters"
+        url: /lcia/members/encrypted/newsletters
+      - title: "Water Quality & Level Data"
+        url: /lcia/members/encrypted/water
+      - title: "Sports Court"
+        url: /lcia/members/encrypted/sports
+
+
+

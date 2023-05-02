@@ -18,20 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Lake Cavanaugh
+subtitle: "Demo Mode"
+name: Lake Cavanaugh
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://namruf32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#logo: /assets/images/800px-Lake_Cavanaugh_with_White_Horse_Mountain.jpeg
+#masthead_title: "My Custom Title"
+
 twitter_username: jekyllrb
 github_username:  jekyll
 
+locale: "en-US"
+search: true
+
 # Build settings
 #theme: minima
-#theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
@@ -56,3 +63,21 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/namruf32"
+
+breadcrumbs: true
+breadcrumb_home_label : "Home"
+breadcrumb_separator  : "/"
