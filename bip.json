@@ -1,0 +1,5 @@
+{
+    "framework": "jekyll",
+    "deployPath": "_site",
+    "domain": "lakecavanaugh.bip.sh"
+}
