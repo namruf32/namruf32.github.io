@@ -27,3 +27,12 @@ Josh Furman:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: ""
+
+John Matusak:
+  name        : "John Matusak"
+  bio         : "LCIA President:"
+  #avatar      : "/assets/images/josh_furman.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jmatusak@am-hs.org"

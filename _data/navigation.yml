@@ -27,12 +27,10 @@ lcia:
     children:
       - title: "LCIA Members Login"
         url: /lcia/members/encrypted/
-      - title: "Officers & Committees"
-        url: /lcia/governing
       - title: "LCIA Member Dues & Donations"
         url: /lcia/dues
-      - title: "Spring Newsletter"
-        url: /lcia/spring_news
+      - title: "Officers & Committees"
+        url: /lcia/governing
       - title: "Volunteer"
         url: /lcia/volunteer
 

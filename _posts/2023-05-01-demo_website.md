@@ -4,7 +4,7 @@ title: "Demo Website is UP!"
 author: Josh Furman
 permalink: /community/:title
 date: 2023-05-01 10:53:41 -0700
-categories: "web site"
+categories: news "web site"
 classes: wide
 ---
 ## A new mock up for the LCIA website!

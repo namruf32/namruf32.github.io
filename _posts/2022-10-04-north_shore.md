@@ -3,9 +3,8 @@ layout: posts
 title: "North Shore Update"
 author: Larita Humble
 date: 2022-10-04 07:26:41 -0700
-
 permalink: /community/:title
-categories: "north shore"
+categories: "news"
 classes: wide
 card_image: /assets/images/northshore-768x576.jpeg
 header:
