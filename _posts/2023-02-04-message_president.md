@@ -6,14 +6,11 @@ date: 2023-02-13 18:55:00 -0700
 permalink: /community/:title
 categories: "news"
 classes: wide
-card_image: /assets/images/northshore-768x576.jpeg
+card_image: /assets/images/lake_splash-2.jpg
 header:
-  overlay_image: /assets/images/northshore-768x576.jpeg
-  caption: "Photo credit: Larita Humble"
+  overlay_image: /assets/images/lake_splash-2.jpg
+  caption: "Photo credit: Danya Furman"
   show_overlay_excerpt: false
-  actions:
-    - label: "Email Skagit County Commissioners"
-      url: "mailto:commissioners@co.skagit.wa.us"
 ---
 
 **When my wife and I were first introduced to the Lake Cavanaugh community in the mid-1980’s, we certainly had no idea we would ever own property on the lake. Yet, here we are in the early part of 2023 and we feel blessed to have been on the lake for nearly thirty years.**
