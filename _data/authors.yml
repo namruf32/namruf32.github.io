@@ -1,38 +1,40 @@
-Larita Humble:
-  name        : "Larita Humble"
-  bio         : "A catchy description here."
-  #avatar      : "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:larita_humble@frontier.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: ""
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: ""
-
 Josh Furman:
-  name        : "Josh Furman"
-  bio         : "Website wrangler"
-  avatar      : "/assets/images/josh_furman.jpg"
+  name: "Josh Furman"
+  bio: "Website wrangler!"
+  avatar: "/_lfs/images/josh_furman.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:namruf32@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: ""
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: ""
 
 John Matusak:
-  name        : "John Matusak"
-  bio         : "LCIA President:"
-  #avatar      : "/assets/images/josh_furman.jpg"
+  name: "John Matusak"
+  bio: "LCIA President"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jmatusak@am-hs.org"
+
+Shannon O’Kelley:
+  name: "Shannon O’Kelley"
+  bio: "LCIA Vice President & Membership Chair"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:msokelley@hotmail.com"
+
+Mark Olson:
+  name: "Mark Olson"
+  bio: "Lake Resident"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mark@olson-olson.com"
+
+Carol Pletz:
+  name: "Carol Pletz"
+  bio: "LCFD Auxiliary President"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cpletzski@gmail.com"

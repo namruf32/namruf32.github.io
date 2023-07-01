@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: category
-taxonomy: news
-entries_layout: grid
-classes: wide
 title: Lake News
+taxonomy: news
+#entries_layout: grid
+
+classes: wide
 permalink: /community/
 sidebar:
   nav: "community"

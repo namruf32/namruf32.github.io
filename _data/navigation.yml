@@ -26,11 +26,15 @@ lcia:
     url: /lcia/
     children:
       - title: "LCIA Members Login"
-        url: /lcia/members/encrypted/
-      - title: "LCIA Member Dues & Donations"
-        url: /lcia/dues
+        url: https://members.lakecavanaugh.info
+      - title: "LCIA Membership"
+        url: /lcia/membership
+      - title: "LCIA Donations"
+        url: /lcia/donations
       - title: "Officers & Committees"
         url: /lcia/governing
+      - title: "Community Center Rental"
+        url: /lcia/cc_rental
       - title: "Volunteer"
         url: /lcia/volunteer
 
@@ -38,15 +42,17 @@ fire:
   - title: "Fire Department"
     url: /fire/
     children:
-      - title: "Auiliary Mission Statement"
+      - title: "LCFD Members"
+        url: /fire/members
+      - title: "Auxiliary Mission Statement"
         url: /fire/auxiliary
 
 events:
   - title: "Events"
     url: /events/
     children:
-      - title: "Events Calander"
-        url: /events/calander
+      - title: "Events Calendar"
+        url: /events/calendar
 
 sponsors:
   - title: "Sponsors"
@@ -57,7 +63,7 @@ sponsors:
 
 members:
   - title: "LCIA Members"
-    children: 
+    children:
       - title: "Member Information"
         url: /lcia/members/encrypted/
       - title: "Directory"
