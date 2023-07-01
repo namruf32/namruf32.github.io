@@ -5,6 +5,8 @@
 layout: single
 title: Improvement Association
 permalink: /lcia/
+
+classes: wide
 sidebar:
   nav: "lcia"
 ---

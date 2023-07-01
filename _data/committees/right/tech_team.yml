@@ -1,0 +1,14 @@
+committee: tech team
+name: Tech Team
+volunteers:
+  - name: Brent Humble
+    email: brent_humble@frontier.com
+    phone: (206) 919-2901
+
+  - name: Leonard Ness
+    email: lenny.ness@gmail.com
+    phone: (360) 422-5316
+
+  - name: Dwight Small
+    email: puckrat@seanet.com
+    phone: (360) 422-8266

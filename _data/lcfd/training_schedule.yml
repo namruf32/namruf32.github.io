@@ -1,0 +1,71 @@
+- month: January
+  first_training_date: 3rd
+  first_training: Monthly Safety Drills - SCBA/PPE Module - IMS/Accountability Review - Call Discussions
+  second_training_date: 17th
+  second_training: FF Skills, Ropes, Tool, Equip - Tools & Equip - Call Discussions
+
+- month: February
+  first_training_date: 7th
+  first_training: Monthly Safety Drills	- FF Skills - Salvage - Call Discussions
+  second_training_date: 21st
+  second_training: FF Skills/FF Rescue - EMTSGA-DEIB - Call Discussions
+
+- month: March
+  first_training_date: 14th
+  first_training: Monthly Safety Drills - Hose Evolutions - EMT-OTEP1 BL 7:00, Call Discussions 
+  second_training_date: 28th
+  second_training: FF Skills/Forced Entry - Incident Simulations - Call Discussions
+
+- month: April
+  first_training_date: 11th
+  first_training: Monthly Safety Drills - SCBA/PPE Module - Incident Simulations - Call Discussions 
+  second_training_date: 25th
+  second_training: Monthly Safety Drills - Cleanup of Open House, Call Discussions
+
+- month: May
+  first_training_date: 9th
+  first_training: Marine 7 Training - Cleanup for Open House - EMT-OTEP2 BL 7:00 - Call Discussions
+  second_training_date: 23rd or 28th
+  second_training: Call Discussions - FF Skills/Tools & Equip
+
+- month: June
+  first_training_date: 6th
+  first_training: Monthly Safety Drills - Drivers Training Re-Fresher, Call Discussions
+  second_training_date: 20th
+  second_training: Hose Evolutions - Skills - Port. Masters Streams, Call Discussions
+
+- month: July
+  first_training_date: 11th
+  first_training: Monthly Safety Drills - SCBA/PPE Module - IMS/Accountability Review, Call Discussions
+  second_training_date: 25th
+  second_training: FF Skills -/Pros. Press Vent -  FF Skills/Vertical Ventilation, Call Discussions
+
+- month: August
+  first_training_date: 5th or 8th
+  first_training: Monthly Safety Drills - Fun Run - Ground Ladders - Call Discussions
+  second_training_date: 23rd
+  second_training: FF Skills - Vehicle extrications - Hose Evolutions - Call Discussions
+
+- month: September
+  first_training_date: 12th
+  first_training: FF Skills - Fire Extingushers - EMT/OTEP3 BLV 7:00, Call Discussions
+  second_training_date: 26th
+  second_training: Multi-Company Operations - FF Skills/ FF Rescue
+
+- month: October
+  first_training_date: 3rd
+  first_training: Hose Evolutions  - FF Skills/Tools & Equip - Incident Simulations - Call Discussions
+  second_training_date: 17th
+  second_training: Monthly Safety Drills - SCBA/PPE Module - FF Skills - Forced Entry, Call Discussions
+
+- month: November
+  first_training_date: 14th
+  first_training: Drivers Training - Call Discussions - EMT-OTEP4 BL 7:00
+  second_training_date: 28th
+  second_training: FF Skills/Ground Ladders - FF Skills/Hoisting -  - Call Discussions - IMS/Accountability
+
+- month: December
+  first_training_date: 5th
+  first_training: Monthly Safety Drills - Multi Company Operations - Call Discussions - IMS/Accountability
+  second_training_date: 19th
+  second_training: FF Skills/Vertical Ventulation - FF Skills/Salvage - Call Discussions
