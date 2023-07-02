@@ -67,17 +67,9 @@ github: [metadata]
 
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/mmistakes"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/mmistakes"
-    #  icon: "fab fa-fw fa-email"
-    #  url: "https://github.com/mmistakes"
     - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact-project+namruf32-lakecavanaugh-info-46311715-issue-@incoming.gitlab.com"
+      url: "mailto:lcwebmaster@lakecavanaugh.info"
 
 defaults:
   # _posts

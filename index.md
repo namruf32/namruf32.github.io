@@ -53,6 +53,9 @@ feature_row:
 **Burn Ban** takes effect June 9, 2023, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/060223.htm" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
 {: .notice--danger}
 
+New website information, including members login, read more [HERE](/community/news_lcia_website)
+{: .notice--info}
+
 ---
 
 {% include feature_row %}
