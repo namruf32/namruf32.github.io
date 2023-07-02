@@ -19,7 +19,7 @@ The LCIA members login is slightly different than what you have seen in the past
 ### Zeffy
 We've partnered with [Zeffy](https://zeffy.com/) to handle our online transactions including [memberships](/lcia/membership), [donations](/lcia/donations), [advertising](/sponsors/advertise) and [volunteer sign up](/lcia/volunteer).
 
-Zeffy helps us put more money towards the LCIA programs by asking people for a small, optional, donation during your purchase. This sends 100% of your purchase to help fund LCIA and helps Zeffy keep their systems running to provide this service to us for free.
+Zeffy helps us put more money towards the LCIA programs by asking for a small, optional, donation during your purchase. This sends 100% of your purchase to help fund LCIA and helps Zeffy keep their systems running to provide this service to us for free.
 
 Finally, Zeffy also allows us to send membership information, immediately, after you join or renew online.
 
