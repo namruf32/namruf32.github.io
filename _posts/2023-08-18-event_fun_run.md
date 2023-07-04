@@ -7,6 +7,12 @@ show_date: false
 read_time: false
 related: false
 
+header:
+  overlay_image: /_lfs/images/fun_run-01.jpg
+  actions:
+  - label: "Sign Up Today"
+    url: /_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf
+
 categories: events
 permalink: /events/:title
 classes: wide
