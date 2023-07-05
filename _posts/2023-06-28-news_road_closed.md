@@ -4,8 +4,11 @@ title: "Lake Cavanaugh Road to Oso Closure"
 date: 2023-06-26 11:00:00 -0700
 permalink: /community/:title
 categories: "news"
+
+header:
+  overlay_image: /_lfs/images/lake_satellite.png
 ---
-Lake Cavanaugh road from Hyw 530 to the Snohomish/Skagit County line will be closed between 07:00am on 07/10/2023** through **05:00pm 07/28/2023 for repairs.
+Lake Cavanaugh road from Hyw 530 to the Snohomish/Skagit County line will be closed between **07:00am on 07/10/2023** through **05:00pm 07/28/2023** for repairs.
 
 | **FROM:**    | SNOHOMISH COUNTY DEPARTMENT OF PUBLIC WORKS |
 | **SUBJECT:** | ROAD CLOSURE – ARLINGTON AREA *NEW* |
