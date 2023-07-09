@@ -12,6 +12,8 @@ header:
   actions:
   - label: "Sign Up Today"
     url: /_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf
+  - label: "Become a Sponsor"
+    url: /_lfs/docs/Once_Around_Lake_Cavanaugh-sponsor_form.pdf
 
 categories: events
 permalink: /events/:title
@@ -21,7 +23,7 @@ classes: wide
 
 “A self-timed Fun Run to support a good cause.”
 
-This event is dedicated to Bob Sittner, our friend and former fire chief, who lost his life fighting a fire on South Shore Dr ive. He has been, and will continue to be, the driving force behind this race. All proceeds from this race are to benefit the development of the Lake Cavanaugh Volunteer Fire Department.
+This event is dedicated to Bob Sittner, our friend and former fire chief, who lost his life fighting a fire on South Shore Drive. He has been, and will continue to be, the driving force behind this race. All proceeds from this race are to benefit the development of the Lake Cavanaugh Volunteer Fire Department.
 
 **PLEASE NOTE!** Please bring and use a self-timing watch if you are interested in your finishing time. Unofficial times will be given at the finish line.
 
@@ -35,7 +37,7 @@ This event is dedicated to Bob Sittner, our friend and former fire chief, who lo
 
 **COURSE:** One lap around beautiful Lake Cavanaugh in Skagit County, Washington. Run or walk a paved road surrounding our lake containing a few small hills within the first four miles. Water and aid stations provided.
 
-**EARLY/PRE-REGISTRATION:** (must be received by July 18th, otherwise register on RACE DAY). Send check payable to “LCFDA”, $20.00 for race and shirt; $15 for race only; plus, registration form below ($2.00 of registration or children 12
+[**EARLY/PRE-REGISTRATION:**](/_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf) (must be received by July 18th, otherwise register on RACE DAY). Send check payable to “LCFDA”, $20.00 for race and shirt; $15 for race only; plus, registration form below ($2.00 of registration or children 12
 and under) to:
 
 Carol Pletz<br>
