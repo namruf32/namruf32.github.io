@@ -1,18 +1,3 @@
-- event: Annual Rummage Sale
-  date: Jul. 1 - 4
-  description: Please be sure your items are clean and in saleable condition
-  link: /events/event_rummage_sale
-
-- event: July 4th Parade
-  date: Jul. 4
-  description: Join the parade
-  link: /events/event_4th_parade
-
-- event: Wheels at the Lake
-  date: Jul. 8
-  description: Let’s GET READY TO RUMBLE on down to the Community Center
-  link: /events/event_wheels
-
 - event: Lake Cavanaugh History Night
   date: Jul. 29
   description: Many things have changed in the Lake Cavanaugh Valley in the past 70 years
