@@ -37,17 +37,14 @@ This event is dedicated to Bob Sittner, our friend and former fire chief, who lo
 
 **COURSE:** One lap around beautiful Lake Cavanaugh in Skagit County, Washington. Run or walk a paved road surrounding our lake containing a few small hills within the first four miles. Water and aid stations provided.
 
-[**EARLY/PRE-REGISTRATION:**](/_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf) (must be received by July 18th, otherwise register on RACE DAY). Send check payable to “LCFDA”, $20.00 for race and shirt; $15 for race only; plus, registration form below ($2.00 of registration or children 12
-and under) to:
+[**EARLY/PRE-REGISTRATION:**](/_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf) Registration must be received by August 1, 2023 otherwise register on RACE DAY. Send check payable to “LCFDA”, $25.00 for race and shirt; $15 for race only; plus, [registration form](/_lfs/docs/Once_Around_Lake_Cavanaugh-entry_form.pdf) ($2.00 off registration for children 12 and under) to:
 
 Carol Pletz<br>
 33986 North Shore Drive<br>
 Mount Vernon, WA 98274
 
-**RACE DAY REGISTRATION:** $25.00 race plus shirt; $20.00 for race only ($2.00 off registration f or children 12 and under).
+**RACE DAY REGISTRATION:** $20.00 for race only ($2.00 off registration f or children 12 and under).
 
 **AWARDS:** Awards will be given to the top 3 runners, and top 3 walkers. All participants will be given a Participant Ribbon.
 
 **RACE SCHEDULE:** 8:30 – 9:30 A.M. (or ½ hour prior to your start time) pick up number and/or shirt and/or registration.
-
-**INFORMATION:** Officially sanctioned by the PNTF and USATF
