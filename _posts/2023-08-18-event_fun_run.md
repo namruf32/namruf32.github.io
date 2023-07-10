@@ -19,7 +19,7 @@ categories: events
 permalink: /events/:title
 classes: wide
 ---
-**BACK, BY POPULAR DEMAND. . !**
+**PRESENTING OUR 36th ANNUAL EVENT!**
 
 “A self-timed Fun Run to support a good cause.”
 
