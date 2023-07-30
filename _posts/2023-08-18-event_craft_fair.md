@@ -11,9 +11,13 @@ categories: events
 permalink: /events/:title
 classes: wide
 ---
-The Craft Fair will be part of our Labor Day weekend celebrations.
-If you are interested in participating, please register here, or download 
-and return the registration form by **August 20**.
+We would like to extend an invitation to our local crafters to participate. The
+only charge is a table fee, with no fee for percentage of sales. What a DEAL!
 
-We invite the community to come and take a look at our wares.
+And we have a special category for Junior Crafters (16 and younger).
+
+If you are interested in participating, <a target="_blank" rel="noopener noreferrer" href="https://www.zeffy.com/en-US/ticketing/aa944996-f502-4b3c-93dc-194e3c31a0f1">apply online</a> or <a target="_blank" rel="noopener noreferrer" href="/_lfs/docs/craft-fair-vendor-application.pdf">download</a> and return an application by August 20.
 We want this to be an enjoyable and fun time for everyone.
+
+Have questions?<br>
+Contact [Christine Nielsen](mailto:4nielsen@gmail.com) 360-420-7140 or [Larry Hawk](mailto:GRIZZLYFIRESTARTERS@gmail.com) 360-422-6911
