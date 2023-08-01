@@ -43,7 +43,7 @@ sidebar:
 }
 </style>
 
-## {{ "now" | date: "%Y" }} LICA Offices
+## {{ "now" | date: "%Y" }} LCIA Officers
 
 <div class="grid-container">
   <div class="grid-item">
@@ -66,7 +66,7 @@ sidebar:
         {% for director in site.data.directors %}
         <tr>
           {% if forloop.index == 1 %}
-            <td rowspan={{ forloop.length }}><b>Directors:</b></td>
+            <td style="vertical-align:top" rowspan={{ forloop.length }}><b>Directors</b></td>
           {% endif %}
             <td><a href = "mailto: {{ director.email }}">{{ director.name }}</a></td>
             <td>{{ director.phone }}</td>
