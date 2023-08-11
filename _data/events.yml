@@ -1,7 +1,7 @@
-- event: Lake Cavanaugh History Night
-  date: Jul. 29
-  description: Many things have changed in the Lake Cavanaugh Valley in the past 70 years
-  link: /events/event_history_night
+- event: Fishing Derby
+  date: Now through Labor Day
+  description: Fun Fest - Fishing Derby
+  link: /events/event_funfest_fish
 
 - event: Once Around Lake Cavanaugh
   date: Aug. 19
@@ -13,10 +13,35 @@
   description: A Lake Cavanaugh Tradition for over 39 years
   link: /events/event_fun_fest
 
+- event: Golf Tournament
+  date: Sep. 2
+  description: Fun Fest - Golf Tournament
+  link: /events/event_funfest_golf
+
+- event: Horseshoe Tournament
+  date: Sep. 2 - 12:00 - 4:00
+  description: Fun Fest - Horseshoe Tournament
+  link: /events/event_funfest_horseshoe
+
+- event: Pickleball
+  date: Sep. 2 - 12:30
+  description: Fun Fest - Pickleball
+  link: /events/event_funfest_pickleball
+
+- event: Kid's Games
+  date: Sep. 3 - 10:00
+  description: Fun Fest - Kid's Games
+  link: /events/event_funfest_kids
+
 - event: LCIA Arts & Crafts Fair
-  date: Sep. 3
+  date: Sep. 3 - 11:00 - 3:00
   description: The Craft Fair will be part of our Labor Day weekend celebrations
   link: /events/event_craft_fair
+
+- event: Volleyball
+  date: Sep. 3 - 1:00
+  description: Fun Fest - Volleyball
+  link: /events/event_funfest_volleyball
 
 - event: Labor Day Dance
   date: Sep. 3

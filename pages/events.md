@@ -54,3 +54,4 @@ table {
     </tr>
   {% endfor %}
 </table>
+**[View the full calendar](/events/calendar)**
