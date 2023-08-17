@@ -50,7 +50,7 @@ feature_row:
     url: /lcia/cc_rental
 ---
 
-**Burn Ban** takes effect June 9, 2023, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/060223.htm" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
+**UPDATE! - A Complete Burn Ban, including campfires,** takes effect August 17, 2023, until further notice, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/081623.htm#" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
 {: .notice--danger}
 
 The **Craft Fair** is right around the corner. If you're interested in selling your crafts get more information and apply for a vendor booth [HERE](/events/event_craft_fair)
