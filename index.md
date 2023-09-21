@@ -50,10 +50,11 @@ feature_row:
     url: /lcia/cc_rental
 ---
 
-**UPDATE! - A Complete Burn Ban, including campfires,** takes effect August 17, 2023, until further notice, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/081623.htm#" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
+**Skagit County Burn Ban Modified to Allow Recreational Fires,** September 1, 2023, until further notice, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/090123.htm" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
 {: .notice--danger}
 
-The **Craft Fair** is right around the corner. If you're interested in selling your crafts get more information and apply for a vendor booth [HERE](/events/event_craft_fair)
+**Planned Power Outage, September 27th**<br>
+PSE will be performing maintenance with an anticipated 7 hour power outage for significant portions of South Shore Drive. Read more [HERE](/community/news-pse_outage)!
 {: .notice--info}
 
 ---
