@@ -50,15 +50,6 @@ feature_row:
     url: /lcia/cc_rental
 ---
 
-**Skagit County Burn Ban Modified to Allow Recreational Fires,** September 1, 2023, until further notice, for all of Skagit County. Read more information from the <a href="https://www.skagitcounty.net/Departments/Home/press/090123.htm" target="_blank" rel="noopener noreferrer">Skagit County Fire Marshal</a>.
-{: .notice--danger}
-
-**Planned Power Outage, September 27th**<br>
-PSE will be performing maintenance with an anticipated 7 hour power outage for significant portions of South Shore Drive. Read more [HERE](/community/news-pse_outage)!
-{: .notice--info}
-
----
-
 {% include feature_row %}
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/48d33n122d02/lake-cavanaugh/?unit=us" data-label_1="LAKE CAVANAUGH" data-label_2="WEATHER" data-theme="original" >LAKE CAVANAUGH WEATHER</a>
