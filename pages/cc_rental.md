@@ -48,12 +48,12 @@ sidebar:
          The community center provides a beautiful backdrop for wedding photos and celebrations. The building interiors are a blank canvas which allows the renter the liberty to decorate the facility they want for each event.
     </td>
     <td>
-      <img src="/_lfs/images/cc_rental-1.jpg" alt="Trulli" width="500" height="333">
+      <img src="/_lfs/images/cc_album/cc_album_01.jpeg" alt="Wedding" width="500" height="333">
     </td>
   </tr>
     <tr>
       <td>
-        <img src="/_lfs/images/cc_rental-2.jpg" alt="Trulli" width="500" height="333">
+        <img src="/_lfs/images/cc_album/cc_album_30.jpg" alt="Trulli" width="500" height="333">
       </td>
       <td>
       <b>Events</b><br>
@@ -66,7 +66,7 @@ sidebar:
          The facility is a wonderful venue for celebrations. Choose the Lake Cavanaugh Community Center for your next reunion, birthday, anniversary, holiday party, retirement party, or any kind of social gathering.
     </td>
     <td>
-      <img src="/_lfs/images/cc_rental-3.jpg" alt="Trulli" width="500" height="333">
+      <img src="/_lfs/images/cc_album/cc_album_12.jpg" alt="Trulli" width="500" height="333">
     </td>
   </tr>
   <tr>
@@ -93,3 +93,7 @@ sidebar:
     </td>
   </tr>
 </table>
+
+
+<b>Photo Album</b><br>
+{% include image-gallery.html folder="/_lfs/images/cc_album/" %}
