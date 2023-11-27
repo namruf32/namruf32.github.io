@@ -93,7 +93,3 @@ sidebar:
     </td>
   </tr>
 </table>
-
-
-<b>Photo Album</b><br>
-{% include image-gallery.html folder="/_lfs/images/cc_album/" %}
