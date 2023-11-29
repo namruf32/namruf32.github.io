@@ -93,3 +93,7 @@ sidebar:
     </td>
   </tr>
 </table>
+
+<hr>
+<b>Community Center Photo Album<b><br>
+{% include cc_album.html %}
