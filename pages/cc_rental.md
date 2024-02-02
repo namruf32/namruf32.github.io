@@ -80,7 +80,7 @@ sidebar:
   </tr>
   <tr>
     <td style="text-align: center" colspan="2">
-      For more information <a href="/_lfs/docs/LCCC-Rental-Agreement-June-2020-with-Coronavirus-Requirements.pdf"><strong>DOWNLOAD OUR RENTAL FORM</strong></a>, then sign and return it with the rental and deposit paid by check to reserve the time.
+      For more information <a href="/_lfs/docs/LCCC_Rental_Agreement-2024.pdf"><strong>DOWNLOAD OUR RENTAL FORM</strong></a>, then sign and return it with the rental and deposit paid by check to reserve the time.
     </td>
   </tr>
   <tr>
