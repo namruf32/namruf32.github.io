@@ -1,4 +1,11 @@
-/* advertising.md */
+/* styles.css */
+
+/* image buffer */
+.image img {
+    margin: 10px; /* Adjust this value to increase or decrease the buffer */
+}
+
+/* zeffy forms */
 .iframe-container {
     position: relative;
     overflow: hidden;
@@ -17,4 +24,33 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+}
+
+/* styles.css */
+#auxiliary {
+    border-collapse: collapse;
+    display:table;
+    width: 90%;
+}
+
+#auxiliary td, #auxiliary th {
+    border: 0px solid #ddd;
+    padding: 8px;
+    font-size: 20px;
+}
+
+#auxiliary tr:hover {background-color: #ddd;}
+
+#auxiliary th {
+    padding-top: 12px;
+    padding-bottom: 1px;
+    text-align: left;
+    background-color: #D8EBF1;
+    color: black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
 }

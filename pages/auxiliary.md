@@ -10,39 +10,8 @@ classes: wide
 sidebar:
  nav: "fire"
 ---
-<style>
-#auxiliary {
-  border-collapse: collapse;
-  display:table;
-  width: 90%;
-}
+<link rel="stylesheet" href="../styles.css">
 
-#auxiliary td, #auxiliary th {
-  border: 0px solid #ddd;
-  padding: 8px;
-  font-size: 20px;
-}
-
-#auxiliary tr:hover {background-color: #ddd;}
-
-#auxiliary th {
-  padding-top: 12px;
-  padding-bottom: 1px;
-  text-align: left;
-  background-color: #D8EBF1;
-  color: black;
-}
-
-.image {
-  margin-top: 1%;
-}
-
-.grid-container {
-  display: grid;
-  grid-template-columns: 50% 50%;
-  padding: 10px;
-}
-</style>
 ## Auxiliary Mission Statement
 Supporting and Fund Raising for our Community
 The Lake Cavanaugh Fire Department Auxiliaries supports the Fire Department by raising funds for equipment and supplies.
@@ -102,5 +71,7 @@ Consider volunteering for the Lake Cavanaugh Fire Department Auxiliary. It’s r
 
 ## Fill the Boot Fundraiser
 
-<img align="right" src="/_lfs/images/auxiliary-03.jpg" width="50%" height="auto">
+<div class="image">
+  <img align="right" src="/_lfs/images/auxiliary-03.jpg" width="50%" height="auto">
+</div>
 2020 brought the Covid 19 Pandemic, which changed the Lake Cavanaugh Fire Department Auxiliary’s ability to provide their annual Pancake Breakfast. In years past, this was a major fundraiser. Unable to do this breakfast, more creative ideas were needed to keep our Fire Department funded. Hence, the “Fill the Boot” fundraiser was set into motion. It turned out to be a huge success. Our community came out in force, showing support, respect and gratitude for the men and women who volunteer their time for the good and protection of our residents. It was fun, exciting and as previously stated, very successful. It has now become an annual Labor Day event that everyone looks forward to.
