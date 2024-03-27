@@ -10,7 +10,8 @@ sidebar:
   nav: "lcia"
 ---
 
-<div style="position:relative;overflow:hidden;width:100%;height:1200px;padding-top:500px">
-<iframe title='Volunteer form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-US/volunteering/cbf4efa5-f5db-45a2-8b3f-03edba1a7772' allowTransparency="true">
-</iframe>
+<link rel="stylesheet" href="../styles.css">
+
+<div class="iframe-container">
+  <iframe title='Volunteer form powered by Zeffy' src='https://www.zeffy.com/en-US/volunteering/cbf4efa5-f5db-45a2-8b3f-03edba1a7772' allowTransparency="true"></iframe>
 </div>
