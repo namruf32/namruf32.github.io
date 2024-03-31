@@ -10,32 +10,9 @@ classes: wide
 sidebar:
   nav: "lcia"
 ---
-<head>
-<style>
+<link rel="stylesheet" href="../styles.css">
 
-#rental {
-  font-family: sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#rental td {
-  font-size: 18px;
-  vertical-align: center;
-  border: 0px solid #ddd;
-  padding: 12px;
-}
-
-#foo td {
-  text-align: center;
-}
-
-
-</style>
-</head>
-<body>
-
-<table id="rental">
+<table class="rental">
   <tr>
     <td style="text-align: center" colspan="2">
       <b>Reserve the date for your next event</b><br>
@@ -48,12 +25,12 @@ sidebar:
          The community center provides a beautiful backdrop for wedding photos and celebrations. The building interiors are a blank canvas which allows the renter the liberty to decorate the facility they want for each event.
     </td>
     <td>
-      <img src="/_lfs/images/cc_album/cc_album_01.jpeg" alt="Wedding" width="500" height="333">
+      <img class="image-size" src="/_lfs/images/cc_album/cc_album_01.jpeg" alt="Wedding">
     </td>
   </tr>
     <tr>
       <td>
-        <img src="/_lfs/images/cc_album/cc_album_30.jpg" alt="Trulli" width="500" height="333">
+        <img class="image-size" src="/_lfs/images/cc_album/cc_album_30.jpg" alt="Trulli">
       </td>
       <td>
       <b>Events</b><br>
@@ -66,7 +43,7 @@ sidebar:
          The facility is a wonderful venue for celebrations. Choose the Lake Cavanaugh Community Center for your next reunion, birthday, anniversary, holiday party, retirement party, or any kind of social gathering.
     </td>
     <td>
-      <img src="/_lfs/images/cc_album/cc_album_12.jpg" alt="Trulli" width="500" height="333">
+      <img class="image-size" src="/_lfs/images/cc_album/cc_album_12.jpg" alt="Trulli">
     </td>
   </tr>
   <tr>
@@ -75,7 +52,7 @@ sidebar:
          The rental fee includes tables with white linen tablecloths and chairs. The kitchen features a stainless prep counter and sinks, a commercial double oven and range including a two-foot griddle and four burners. The commercial dishwasher washes the dishes in only 110 seconds. The french door refrigerator has a standard ice maker and will accommodate several large serving trays. The rate for renting the Community Center is stated on the attached rental application form.
     </td>
     <td>
-      <img src="/_lfs/images/cc_rental-4.jpg" alt="Trulli" width="500" height="333">
+      <img class="image-size" src="/_lfs/images/cc_rental-4.jpg" alt="Trulli">
     </td>
   </tr>
   <tr>
@@ -85,7 +62,7 @@ sidebar:
   </tr>
   <tr>
     <td>
-      <img src="/_lfs/images/cc_rental-5.jpg" alt="Trulli" width="500" height="333">
+      <img class="image-size" src="/_lfs/images/cc_rental-5.jpg" alt="Trulli">
     </td>
     <td>
       <b>Reserve the Facility</b><br>

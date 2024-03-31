@@ -9,5 +9,8 @@ classes: wide
 sidebar:
   nav: "lcia"
 ---
+<link rel="stylesheet" href="../styles.css">
 
-<div style="position:relative;overflow:hidden;width:100%;height:2000px;padding-top:100%"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/en-US/embed/donation-form/b6508f54-65c8-4838-92aa-6e032d3c253b' allowpaymentrequest allowTransparency="true"></iframe></div>
+<div class="iframe-container">
+  <iframe title='Donation form powered by Zeffy' src='https://www.zeffy.com/en-US/embed/donation-form/b6508f54-65c8-4838-92aa-6e032d3c253b' allowpaymentrequest allowTransparency="true"></iframe>
+</div>

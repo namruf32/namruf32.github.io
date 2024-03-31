@@ -71,3 +71,29 @@
     height: 100%;
     border: 0;
 }
+
+.rental {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.rental td {
+    font-size: 18px;
+    vertical-align: center;
+    border: 0px solid #ddd;
+    padding: 12px;
+  }
+
+  .center-text {
+    text-align: center;
+}
+
+.image-size {
+    width: 500px;
+    height: 333px;
+}
+
+.center-text {
+    text-align: center;
+}
