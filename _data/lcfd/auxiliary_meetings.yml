@@ -1,16 +1,14 @@
-- month: March
-  date: 11th
 - month: April
-  date: 8th
-- month: May
   date: 13th
+- month: May
+  date: 11th
 - month: June
-  date: 10t
-- month: July
   date: 8th
+- month: July
+  date: 13th
 - month: August
-  date: 12th
+  date: 10th
 - month: September
-  date: 9th
-- month: October
   date: 14th
+- month: October
+  date: 12th
