@@ -97,3 +97,26 @@
 .center-text {
     text-align: center;
 }
+
+.ad_full_page {
+    width: 100%;
+    height: auto;
+}
+
+.ad_half_page {
+    width: 48%;
+    height: auto;
+}
+
+.ad_large {
+    width: 32%;
+    height: auto;
+}
+
+.ad_full_page, .ad_half_page, .ad_large {
+    transition: transform 0.3s ease-in-out;
+}
+
+.ad_full_page:hover, .ad_half_page:hover, .ad_large:hover {
+    transform: scale(1.9);
+}
