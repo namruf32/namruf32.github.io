@@ -120,3 +120,7 @@
 .ad_full_page:hover, .ad_half_page:hover, .ad_large:hover {
     transform: scale(1.9);
 }
+
+.ad_full_page:hover {
+    transform: scale(1.2);
+}

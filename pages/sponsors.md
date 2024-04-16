@@ -16,14 +16,18 @@ sidebar:
   <img class="ad_full_page" src="/_lfs/images/advertising/boat_lifts_Int.png" alt="Boat Lifts International">
 </a>
 
-<div class="ad-row">
+<a href="https://www.nordictempcontrol.com/" target="_blank">
+  <img class="ad_full_page" src="/_lfs/images/advertising/nordic_temp_control.png" alt="Nordic Temperature Control">
+</a>
+
+<div>
   <a href="mailto:info@coverallnw.com">
     <img class="ad_half_page" src="/_lfs/images/advertising/coverall_nw.png" alt="Coverall NW">
   </a>
   <img class="ad_half_page" src="/_lfs/images/advertising/laine_house_cleaning.jpeg" alt="Laine's House Cleaning">
-</div> 
+</div>
 
-<div class="ad-row">
+<div>
   <a href="https://bastaboatlifts.com/" target="_blank">
     <img class="ad_large" src="/_lfs/images/advertising/basta.png" alt="Basta">
   </a>
@@ -37,7 +41,7 @@ sidebar:
   </a>
 </div>
 
-<div class="ad-row">
+<div>
   <a href="mailto:kurtwood@yahoo.com">
     <img class="ad_large" src="/_lfs/images/advertising/kurt-w.png" alt="Historic Lake Cavanaugh Photos">
   </a>
@@ -51,7 +55,7 @@ sidebar:
   </a>
 </div>
 
-<div class="ad-row">
+<div>
   <img class="ad_large" src="/_lfs/images/advertising/marios_land.jpg" alt="Mario's Landscaping">
 
   <a href="https://sunstreamboatlifts.com" target="_blank">
