@@ -12,13 +12,17 @@ sidebar:
 ---
 <link rel="stylesheet" href="../styles.css">
 
-<a href="http://www.boatliftsintl.com" target="_blank">
-  <img class="ad_full_page" src="/_lfs/images/advertising/boat_lifts_Int.png" alt="Boat Lifts International">
-</a>
+<div>
+  <a href="http://www.boatliftsintl.com" target="_blank">
+    <img class="ad_full_page" src="/_lfs/images/advertising/boat_lifts_Int.png" alt="Boat Lifts International">
+  </a>
+</div>
 
-<a href="https://www.nordictempcontrol.com/" target="_blank">
-  <img class="ad_full_page" src="/_lfs/images/advertising/nordic_temp_control.png" alt="Nordic Temperature Control">
-</a>
+<div>
+  <a href="https://www.nordictempcontrol.com/" target="_blank">
+    <img class="ad_full_page" src="/_lfs/images/advertising/nordic_temp_control.png" alt="Nordic Temperature Control">
+  </a>
+</div>
 
 <div>
   <a href="mailto:info@coverallnw.com">

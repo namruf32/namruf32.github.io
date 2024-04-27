@@ -38,3 +38,11 @@ Carol Pletz:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cpletzski@gmail.com"
+
+Larita Humble:
+  name: "Larita (Tweetie) Humble"
+  bio: "LCIA Volunteer"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:larita_humble@frontier.com"
