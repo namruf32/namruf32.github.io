@@ -54,12 +54,16 @@ sidebar:
     <img class="ad_large" src="/_lfs/images/advertising/Lake-Cav-Farm-New.jpg" alt="Lake Cavanaugh Farm">
   </a>
 
-  <a href="mailto:brett_linert@frontier.com">
-    <img class="ad_large" src="/_lfs/images/advertising/linert_services.png" alt="Linert Services">
+  <a href="https://lakecavrealty.com/" target="_blank">
+    <img class="ad_large" src="/_lfs/images/advertising/chriest_realty.png" alt="Lake Cavanaugh Realty">
   </a>
 </div>
 
 <div>
+  <a href="mailto:brett_linert@frontier.com">
+    <img class="ad_large" src="/_lfs/images/advertising/linert_services.png" alt="Linert Services">
+  </a>
+
   <img class="ad_large" src="/_lfs/images/advertising/marios_land.jpg" alt="Mario's Landscaping">
 
   <a href="https://sunstreamboatlifts.com" target="_blank">
