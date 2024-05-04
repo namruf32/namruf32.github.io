@@ -46,3 +46,8 @@ Larita Humble:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:larita_humble@frontier.com"
+
+Bob and Marta McCullough:
+  name: "Bob & Marta McCullough"
+  bio: "Lake Residents"
+

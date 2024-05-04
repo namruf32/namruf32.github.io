@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <i class='fas fa-calendar-alt' style='font-size:26px'></i> Once Around Lake Cavanaugh
-date: 2023-05-18 10:53:41 -0700
+date: 2024-05-01 10:53:41 -0700
 published: true
 show_date: false
 read_time: false
@@ -19,7 +19,7 @@ categories: events
 permalink: /events/:title
 classes: wide
 ---
-**PRESENTING OUR 36th ANNUAL EVENT!**
+**PRESENTING OUR 37th ANNUAL EVENT!**
 
 “A self-timed Fun Run to support a good cause.”
 

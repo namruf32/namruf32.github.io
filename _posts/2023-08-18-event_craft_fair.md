@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <i class='fas fa-calendar-alt' style='font-size:26px'></i> Craft Fair
-date: 2023-05-18 10:53:41 -0700
+date: 2024-05-01 10:53:41 -0700
 published: true
 show_date: false
 read_time: false
@@ -20,4 +20,4 @@ If you are interested in participating, <a target="_blank" rel="noopener norefer
 We want this to be an enjoyable and fun time for everyone.
 
 Have questions?<br>
-Contact [Christine Nielsen](mailto:4nielsen@gmail.com) 360-420-7140 or [Larry Hawk](mailto:GRIZZLYFIRESTARTERS@gmail.com) 360-422-6911
+Contact [Christine Nielsen](mailto:4nielsen@gmail.com) 360-420-7140

@@ -12,7 +12,15 @@ permalink: /events/:title
 classes: wide
 ---
 
-## Fishing Derby
+## 2024 Fishing Derby
 
-**The Fishing Derby is going on now through Labor Day**<br>
-To sign up contact Sharon Crider at 360-899-8036
+**Sign-up begins now until Labor Day**
+
+Derby Entry Fees are:
+- Bass - $5
+- Trout - $5
+- Both - $10
+
+Prizes for the largest fish in each category!
+
+To sign up contact the [Crider's](mailto:deshcr@frontier.com) at 360-899-8036

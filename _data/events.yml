@@ -1,4 +1,49 @@
-#- event: Fishing Derby
-#  date: Now through Labor Day
-#  description: Fun Fest - Fishing Derby
-#  link: /events/event_funfest_fish
+- event: Open House & Lake Wear Sale
+  date: May 26th
+  description: At the Fire Hall, 9:00a - 12:00p
+  link: /community/news-2024_lcfda_report
+
+- event: 4th of July Parade & Lake Wear Sale
+  date: July 4th
+  description: Starts at the boat launch, 9:00a - 12:00p
+  link: /events/event_4th_parade
+
+- event: Rummage Sale
+  date: July 4th - 6th
+  description: Hugest sale on the lake!
+  link: /events/event_rummage_sale
+
+- event: Classic Car Show
+  date: July 13th
+  description:  Third Annual Wheels at the Lake!
+  link: /events/event_wheels
+
+- event: Once Around the Lake Fun Run
+  date: Aug. 10th
+  description: When your legs get tired, run with your heart
+  link: /community/news-2024_lcfda_report
+
+- event: Lake Cavanaugh Fun Fest
+  date: Labor Day Weekend
+  description: Lake Cavanaugh Fun Fest turns 40!
+  link: /events/event_fun_fest
+
+- event: Fishing Derby
+  date: Now through Labor Day
+  description: Fun Fest - Fishing Derby
+  link: /events/event_funfest_fish
+
+- event: LCIA Arts & Crafts Fair
+  date: Sep. 1st - 11:00 - 3:00
+  description: The Craft Fair will be part of our Labor Day weekend celebrations
+  link: /events/event_craft_fair
+
+- event: Fill the Boot
+  date: Sep. 1st
+  description: Support the LCFD!
+  link: /events
+
+- event: Labor Day Dance
+  date: Sep. 1st
+  description: With DJ Nate Graybeal
+  link: /events/event_dance
