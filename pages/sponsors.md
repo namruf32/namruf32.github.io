@@ -51,7 +51,7 @@ sidebar:
   </a>
 
   <a href="https://lakecavanaughfarm.com" target="_blank">
-    <img class="ad_large" src="/_lfs/images/advertising/Lake-Cav-Farm-New.jpg" alt="Lake Cavanaugh Farm">
+    <img class="ad_large" src="/_lfs/images/advertising/Lake-Cav-Farm-New.png" alt="Lake Cavanaugh Farm">
   </a>
 
   <a href="https://lakecavrealty.com/" target="_blank">
